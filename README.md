@@ -1,4 +1,4 @@
-# AdaCompany---Controle-Empresarial
+# AdaCompany - Corporate Planning and Control
 Funcionalidades para um sistema de controle empresarial
 
 -> Foi criado um projeto do zero utilizando o site https://start.spring.io
