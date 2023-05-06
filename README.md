@@ -1,5 +1,5 @@
 # AdaCompany - Corporate Planning and Control
-Funcionalidades para um sistema de controle empresarial
+Funcionalidades para um sistema de controle empresarial 
 
 -> Foi criado um projeto do zero utilizando o site https://start.spring.io
 Com as seguintes dependências: Spring Web, Spring Data e H2
